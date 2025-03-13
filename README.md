@@ -47,9 +47,7 @@ la mayoria de estas dependencias son para un mejor rendimiento y estetica mas qu
 
 luego solo necesitas conseguir las key de la api que se usa, una cuenta en MongoDB y las ganas de programar
 
-  
-	[MongoDB](https://www.mongodb.com/es/lp/cloud/atlas/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_amers-cl_ps-all_desktop_es-la_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=20751878828&adgroup=156970816922&cq_cmp=20751878828&gad_source=1&gclid=EAIaIQobChMIyKqzhpKIjAMVZGlIAB1P0xR2EAAYASAAEgK3dfD_BwE)
-  
+  [MongoDB](https://www.mongodb.com/es/lp/cloud/atlas/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_amers-cl_ps-all_desktop_es-la_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=20751878828&adgroup=156970816922&cq_cmp=20751878828&gad_source=1&gclid=EAIaIQobChMIyKqzhpKIjAMVZGlIAB1P0xR2EAAYASAAEgK3dfD_BwE)
   [Movies Data Base ](https://www.themoviedb.org/?language=es)
 
 
